@@ -1,0 +1,13 @@
+# Short label shown in the header bar. The full descriptive title lives in the
+# page's own front matter (rendered as the page heading).
+title: QCE 2026 TUT::QHPC::QSIMU::297
+description: >-
+  A hands-on QCE 2026 (IEEE Quantum Week) tutorial on using open-source Qiskit
+  ecosystem tools to simulate fermionic systems on quantum-centric
+  supercomputing infrastructure.
+
+# Needed by jekyll-github-metadata for local builds before an `origin` remote
+# exists. Update to the actual GitHub owner/repo you deploy to.
+repository: kevinsung/qce26-tut-deploying-fermionic
+
+theme: minima
