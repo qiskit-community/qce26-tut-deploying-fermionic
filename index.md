@@ -119,11 +119,9 @@ access to submit jobs to and retrieve results from quantum hardware.
 
 ## Presenters
 
-**Kevin J. Sung**. Software developer and researcher at IBM. Lead developer of `ffsim` and `qiskit-addon-sqd`.
+**Kevin J. Sung**. Quantum algorithm engineer at IBM. Lead developer of `ffsim` and `qiskit-addon-sqd`.
 
 **Thaddeus Pellegrini**. Quantum algorithm engineer at IBM. Lead developer of Quantum Fragment Methods, a Python framework developed in collaboration with the Cleveland Clinic Foundation for quantum chemistry simulations of proteins and drug targets.
-
-**Pedro Rivero**. Global technical lead and manager at IBM. Leads collaborations with U.S. national labs, research institutions, and industry partners to expand the practical applications of quantum technologies.
 
 ## Further reading
 
