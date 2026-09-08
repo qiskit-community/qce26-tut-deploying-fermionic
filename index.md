@@ -110,7 +110,7 @@ access to submit jobs to and retrieve results from quantum hardware.
 
 - [`ffsim`](https://github.com/qiskit-community/ffsim) — build and simulate quantum circuits for variational ansatzes and time evolution.
 - [`qiskit-addon-sqd`](https://github.com/Qiskit/qiskit-addon-sqd) — run the SQD configuration recovery loop.
-- [`fulqrum`](https://github.com/qiskit-community/fulqrum) — provides an interface to faster eigenvalue solvers for SQD.
+- [`fulqrum`](https://github.com/qiskit-community/fulqrum) — interface to faster eigenvalue solvers for SQD.
 - [`qrmi`](https://github.com/qiskit-community/qrmi) — vendor-agnostic library to manage QPU resources on HPC systems.
 - [`qiskit-fermions`](https://github.com/Qiskit/qiskit-fermions) — fermionic circuit class, fermion-to-qubit mappings, and circuit transpilation beyond Jordan-Wigner.
 
