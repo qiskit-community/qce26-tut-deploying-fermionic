@@ -14,8 +14,8 @@ algorithms on real quantum hardware.
 
 **Wednesday, September 16, 2026**:
 
-- **Session 1:** 1:00–2:30 PM EDT
-- **Session 2:** 3:00–4:30 PM EDT
+- **Session 1:** 10:00–11:30 AM EDT
+- **Session 2:** 1:00–2:30 PM EDT
 
 ## Abstract
 
@@ -82,7 +82,7 @@ implementation of the algorithms on QCSC infrastructure.
 
 ### Session 1 — Quantum simulation of fermionic systems
 
-#### 1:00–2:30 PM EDT, Wed Sep 16, 2026
+#### 10:00–11:30 AM EDT, Wed Sep 16, 2026
 
 | Duration | Format           | Topic                                                                                                                            |
 | -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -92,7 +92,7 @@ implementation of the algorithms on QCSC infrastructure.
 
 ### Session 2 — QCSC workflow
 
-#### 3:00–4:30 PM EDT, Wed Sep 16, 2026
+#### 1:00–2:30 PM EDT, Wed Sep 16, 2026
 
 | Duration | Format           | Topic                                                                                                                    |
 | -------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------ |
