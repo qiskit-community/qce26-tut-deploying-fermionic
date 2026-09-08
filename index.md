@@ -118,7 +118,7 @@ access to submit jobs to and retrieve results from quantum hardware.
 
 **Kevin J. Sung**. Quantum algorithm engineer at IBM. Lead developer of `ffsim` and `qiskit-addon-sqd`.
 
-**Thaddeus Pellegrini**. Quantum algorithm engineer at IBM. Lead developer of Quantum Fragment Methods, a Python framework developed in collaboration with the Cleveland Clinic Foundation for quantum chemistry simulations of proteins and drug targets.
+**Thaddeus Pellegrini**. Quantum algorithm engineer at IBM. Lead developer of [`quantum-fragment-methods`](https://github.com/qiskit-community/quantum-fragment-methods), a Python framework developed in collaboration with the Cleveland Clinic Foundation for quantum chemistry simulations of proteins and drug targets.
 
 ## Further reading
 
