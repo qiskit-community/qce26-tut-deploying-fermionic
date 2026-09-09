@@ -17,7 +17,7 @@ algorithms on real quantum hardware.
 - **Session 1:** 10:00–11:30 AM EDT
 - **Session 2:** 1:00–2:30 PM EDT
 
-## Abstract
+## Summary
 
 Simulating fermionic systems, such as molecules and materials, is a widely
 anticipated application of quantum computers with scientific and industrial
