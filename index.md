@@ -61,8 +61,13 @@ applications in quantum chemistry, biophysics, and materials science.
 
 ## Prerequisites
 
-Participants are expected to have basic familiarity with Python and linear
-algebra.
+Participants are expected to have basic familiarity with Python and linear algebra.
+
+Participants are expected to bring their own computer with Qiskit installed.
+To install Qiskit, follow the instructions [here](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit).
+The tutorial will involve submitting jobs to IBM QPUs. To participate in this
+activity, install the IBM Quantum Compute client following the instructions
+[here](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit-runtime).
 
 ## Target audience
 
@@ -100,11 +105,11 @@ implementation of the algorithms on QCSC infrastructure.
 | 30 min   | Jupyter notebooks | Quantum resource management using `qrmi`.                                                                                |
 | 45 min   | Jupyter notebooks | Combine the previously introduced software tools to run SQD and SKQD within a QCSC workflow, using IBM QPUs.             |
 
-## Notebooks and installation
+## Notebooks
 
-Notebooks and installation instructions will be posted here
-before the tutorial. Note that some notebooks require internet
-access to submit jobs to and retrieve results from quantum hardware.
+This tutorial will use the following notebooks:
+- [Sample-based quantum diagonalization of a chemistry Hamiltonian](https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization)
+- [Sample-based Krylov quantum diagonalization of a fermionic lattice model](https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-krylov-quantum-diagonalization)
 
 ## Software tools
 
@@ -118,18 +123,13 @@ access to submit jobs to and retrieve results from quantum hardware.
 
 **Kevin J. Sung**. Quantum algorithm engineer at IBM. Lead developer of `ffsim` and `qiskit-addon-sqd`.
 
-**Thaddeus Pellegrini**. Quantum algorithm engineer at IBM. Lead developer of [`quantum-fragment-methods`](https://github.com/qiskit-community/quantum-fragment-methods), a Python framework developed in collaboration with the Cleveland Clinic Foundation for quantum chemistry simulations of proteins and drug targets.
+**Thaddeus Pellegrini**. Quantum algorithm engineer at IBM.
+Lead developer of [`quantum-fragment-methods`](https://github.com/qiskit-community/quantum-fragment-methods),
+a Python framework developed in collaboration with the Cleveland Clinic Foundation for quantum chemistry simulations of proteins and drug targets.
 
 ## Further reading
 
-- **SQD** — *Chemistry beyond the scale of exact diagonalization on a
-  quantum-centric supercomputer*, Science Advances **11**(25):eadu9991 (2025).
-  [doi:10.1126/sciadv.adu9991](https://doi.org/10.1126/sciadv.adu9991)
-- **SKQD** — *Sample-based Krylov quantum diagonalization*.
-  [arXiv:2501.09702](https://arxiv.org/abs/2501.09702)
-- **QRMI** — *Quantum resource management interface*.
-  [arXiv:2506.10052](https://arxiv.org/abs/2506.10052)
-- **`ffsim` LUCJ ansatz explanation** —
-  <https://qiskit-community.github.io/ffsim/explanations/lucj.html>
-- **IBM SQD tutorial** —
-  <https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization>
+- [SQD paper](https://doi.org/10.1126/sciadv.adu9991)
+- [SKQD paper](https://arxiv.org/abs/2501.09702)
+- [QRMI paper](https://arxiv.org/abs/2506.10052)
+- [LUCJ explanation at ffsim docs](https://qiskit-community.github.io/ffsim/explanations/lucj.html)
