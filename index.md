@@ -110,6 +110,7 @@ implementation of the algorithms on QCSC infrastructure.
 This tutorial will use the following notebooks:
 - [Sample-based quantum diagonalization of a chemistry Hamiltonian](https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization)
 - [Sample-based Krylov quantum diagonalization of a fermionic lattice model](https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-krylov-quantum-diagonalization)
+- [Simulate Hamming weight-preserving Qiskit circuits with ffsim](https://qiskit-community.github.io/ffsim/how-to-guides/qiskit-circuits-sim.html)
 
 ## Software tools
 
