@@ -69,13 +69,15 @@ applications in quantum chemistry, biophysics, and materials science.
 
 ## Prerequisites
 
-Participants are expected to have basic familiarity with Python and linear algebra.
+You should have basic familiarity with Python and linear algebra.
 
-Participants are expected to bring their own computer with Qiskit installed.
+You are expected to bring their own computer with Qiskit installed.
 To install Qiskit, follow the instructions [here](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit).
 The tutorial will involve submitting jobs to IBM QPUs. To participate in this
 activity, install the IBM Quantum Compute client following the instructions
 [here](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit-runtime).
+
+The tutorial involves running software that only supports Linux or macOS. If you use Windows, we recommend that you set up [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/), which provides an appropriate Linux environment.
 
 ## Agenda
 
