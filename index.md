@@ -44,6 +44,14 @@ ansatzes and time evolution, `qiskit-addon-sqd` to run sample-based quantum
 diagonalization (SQD) and sample-based Krylov quantum diagonalization (SKQD),
 and `qrmi` to deploy and manage resources within a QCSC workflow.
 
+## Target audience
+
+The target audience for this tutorial includes academic and industry researchers
+looking to apply QCSC workflows to tackle problems they encounter in their own
+work, as well as quantum computational scientists, developers, and educators
+seeking to learn state-of-the-art techniques for simulating chemistry and
+materials systems.
+
 ## Learning objectives
 
 By the end of the tutorial, participants will be able to:
@@ -68,14 +76,6 @@ To install Qiskit, follow the instructions [here](https://quantum.cloud.ibm.com/
 The tutorial will involve submitting jobs to IBM QPUs. To participate in this
 activity, install the IBM Quantum Compute client following the instructions
 [here](https://quantum.cloud.ibm.com/docs/en/guides/install-qiskit-runtime).
-
-## Target audience
-
-The target audience for this tutorial includes academic and industry researchers
-looking to apply QCSC workflows to tackle problems they encounter in their own
-work, as well as quantum computational scientists, developers, and educators
-seeking to learn state-of-the-art techniques for simulating chemistry and
-materials systems.
 
 ## Agenda
 
