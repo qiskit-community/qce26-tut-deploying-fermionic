@@ -94,8 +94,8 @@ implementation of the algorithms on QCSC infrastructure.
 | Duration | Format           | Topic                                                                                                                            |
 | -------- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 15 min   | Slides           | Review of quantum simulation of fermions, including second quantization and the ground state problem.                            |
-| 45 min   | Jupyter notebooks | Map fermions to qubits using `qiskit-fermions`; construct and simulate quantum circuits for variational ansatzes and time evolution using `ffsim`. |
-| 30 min   | Jupyter notebooks | Approximate ground state energies with SQD and SKQD using `qiskit-addon-sqd`.                                                     |
+| 30 min   | Jupyter notebooks | Construct and simulate fermionic quantum circuits using `ffsim`. Approximate ground state energies with SQD using `qiskit-addon-sqd`.|
+| 45 min   | Jupyter notebooks | Guided coding -- Improve SQD efficiency with `fulqrum`. Explore impact of SQD hyperparameters. Explore SKQD. |
 
 ### Session 2 — QCSC workflow
 
