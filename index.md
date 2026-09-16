@@ -113,6 +113,7 @@ This tutorial will use the following notebooks:
 - [Sample-based quantum diagonalization of a chemistry Hamiltonian](https://quantum.cloud.ibm.com/docs/en/tutorials/sample-based-quantum-diagonalization)
 - [Scale SQD chemistry workflows with Fulqrum](https://github.com/Qiskit/qiskit-addon-sqd/blob/main/docs/guides/integrate_fulqrum.ipynb)
 - [Simulate Hamming weight-preserving Qiskit circuits with ffsim](https://qiskit-community.github.io/ffsim/how-to-guides/qiskit-circuits-sim.html)
+- [Run quantum workloads with QRMI](https://quantum.cloud.ibm.com/docs/en/tutorials/run-quantum-workloads-with-qrmi)
 
 ## Software tools
 
