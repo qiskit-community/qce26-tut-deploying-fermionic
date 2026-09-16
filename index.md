@@ -86,9 +86,9 @@ implementation of the algorithms on QCSC infrastructure.
 
 | Duration | Format           | Topic                                                                                                                                 |
 | -------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| 40 min   | Slides                        | Overview of QCSC infrastructure.                                                                                         |
-| 30 min   | Guided tutorial walkthrough   | Quantum resource management using `qrmi`.                                                                                |
-| 45 min   | Slides + software walkthrough | Combine the previously introduced software tools to run SQD and SKQD within a QCSC workflow, using IBM QPUs.             |
+| 40 min   | Slides                        | Scaling fermionic simulations with embedded and heterogeneous QCSC workflows.                                            |
+| 30 min   | Guided tutorial walkthrough   | Quantum Fragment Methods: CCSD, EWF, SQD, and TrimSQD on glycine.                                                        |
+| 45 min   | Slides + software walkthrough | Quantum resource management with qrmi and Slurm-integrated QPU access.                                                   |
 
 ## Notebooks
 
